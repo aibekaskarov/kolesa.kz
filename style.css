@@ -1,0 +1,137 @@
+.container {
+    height: 500px;
+    width: 960px;
+    border: 1px solid grey; border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.527);
+    display: flex;
+    position: relative;
+}
+img {
+    height: 200px;
+    width: 300px;
+    margin: 15px;
+    margin-top: 25px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.box1 {
+    height: 600px;
+    width: 300px;
+    border: 1px solid none;
+    margin-right: 15px;
+}
+.box2 {
+    height: 600px;
+    width: 300px;
+    border: 1px solid none;
+    margin-right: 15px;
+}
+.box3 {
+    height: 600px;
+    width: 300px;
+    border: 1px solid none;
+    }
+.car1 {
+    display: flex;
+}
+.car2 {
+    display: flex;
+}
+.car3{
+    display: flex;
+}
+.Text3 {
+    color: rgb(0, 110, 255);
+    margin-left: 20px;
+    font-weight: 400px;
+    font-size: large;
+    margin-top: 15px;
+}
+.Text1 {
+    margin-left: 20px;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.Text2 {
+   background-color: rgba(242, 205, 21, 0.912);border-radius: 5px;
+   padding: 2px;
+   font-weight: 600;
+   margin: 10px;
+   text-align: center;  
+}
+.characteristic {
+    color: gray;
+    font-size: 16px;
+    }
+.box4 {
+    display: flex;
+    margin-top: 6px;
+}
+.box4-1 {
+    background-color: rgb(3, 178, 3);border-radius: 5px;
+    padding: 3px;
+    margin-right: 10px;
+    margin-left: 20px;
+    color: #fff;
+}
+.box4-2 {
+    background-color: grey;border-radius: 5px;
+    color: #fff;
+    padding: 3px;
+}
+.title3 {
+    margin-top: 25px;
+}
+.charac {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.location {
+    color: grey;
+    margin-left: 20px;
+    margin-top: 70px;
+    font-size: 14px;
+}
+.location2 {
+    color: grey;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: 14px;
+}
+.знак {
+    display: flex;
+}
+.data {
+    color: grey;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.eye {
+    height: 15px;
+    width: 15px;
+}
+.eye img {
+    height: 100%;
+    width: 100%;
+    margin-top: 12px;
+}
+.num {
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 11px;
+    color: grey;
+}
+.cup {
+    height: 15px;
+    width: 15px;
+}
+.cup img {
+    height: 100%;
+    width: 100%;
+    font-size: 14px;
+    margin-left: 170px;
+    margin-top: 11px;
+}
+
